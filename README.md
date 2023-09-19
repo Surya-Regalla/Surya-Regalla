@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Teja Regalla</h1>
-<h3 align="center">King of the Pirates</h3>
+<h3 align="center">Computer Science Student && Web Developer && DL Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-regalla&label=Profile%20views&color=0e75b6&style=flat" alt="surya-regalla" /> </p>
 
