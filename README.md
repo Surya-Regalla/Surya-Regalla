@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/surya_regalla31" target="blank"><img src="https://img.shields.io/twitter/follow/surya_regalla31?logo=twitter&style=for-the-badge" alt="surya_regalla31" /></a> </p>
 
+- 🏢 I’m currently pursuing an internship at **XTrans Solution Pvt Ltd.**
+
 - 🔭 I’m currently working on **Musculoskeletal abnormality detection**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
